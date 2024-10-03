@@ -8,6 +8,7 @@ Recent advancements in text-to-speech (TTS) synthesis show that large-scale mode
 ### Resources
 
 Paper is available [here](https://arxiv.org/pdf/2409.05356)
+
 Download the data [here](https://ai4bharat.iitm.ac.in/datasets/IndicVoices-R).
 
 Code is available [here](https://github.com/jasonppy/voicecraft/)
