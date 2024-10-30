@@ -86,7 +86,3 @@ If you used this repository or the dataset, please cite our work. Thank you :)
   year={2024}
 }
 ```
-
-### LICENSE
-
-[CC-BY-4.0](/LICENSE.md)
