@@ -55,7 +55,7 @@ wget -O <save as filename> <url to tar file> | tar -xz
 
 Example
 ```bash
-wget -O Assamese.tar https://indic-tts-public.objectstore.e2enetworks.net/data/indicvoices_r/Assamese.tar | tar -xz
+wget -O Assamese.tar https://indic-tts-public.objectstore.e2enetworks.net/data/ivr/Assamese.tar.gz | tar -xz
 ```
 
 To download data for multiple languages, refer the `data_links.txt` file and run the following bash script
