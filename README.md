@@ -75,14 +75,16 @@ cat data_links.txt | xargs -n 1 -P 4 -I {} sh -c 'echo "Downloading and extracti
 
 Here `-n 1` processes one url at a time and `-P 4` runs 4 downloads in parallel - adjust according to your CPU resources.
 
+#### Fine-tuning VoiceCraft
+Please refer to ![VoiceCraft/README.md](VoiceCraft/README.md) for more details.
+
 ### Citation
 If you used this repository or the dataset, please cite our work. Thank you :)
 
 ```bibtex
-@article{sankar2024indicvoices,
+@article{ai4bharat2024indicvoicesr,
   title={IndicVoices-R: Unlocking a Massive Multilingual Multi-speaker Speech Corpus for Scaling Indian TTS},
   author={Sankar, Ashwin and Anand, Srija and Varadhan, Praveen Srinivasa and Thomas, Sherry and Singal, Mehak and Kumar, Shridhar and Mehendale, Deovrat and Krishana, Aditi and Raju, Giri and Khapra, Mitesh},
-  journal={arXiv preprint arXiv:2409.05356},
+  journal={NeurIPS 2024 Datasets and Benchmarks},
   year={2024}
 }
-```
