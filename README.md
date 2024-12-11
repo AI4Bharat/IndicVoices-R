@@ -1,5 +1,5 @@
 # IndicVoices-R: Unlocking a Massive Multilingual Multi-speaker Speech Corpus for Scaling Indian TTS
-> 🎉 Accepted at NeurIPS 2025  (Datasets and Benchmark Track)
+> 🎉 Accepted at NeurIPS 2024  (Datasets and Benchmark Track)
 
 [![DOI](https://zenodo.org/badge/813636000.svg)](https://zenodo.org/doi/10.5281/zenodo.11636050)  [![Paper](https://img.shields.io/badge/arXiv-2409.05356-brightgreen.svg?style=flat-square)](https://arxiv.org/pdf/2409.05356)
 
